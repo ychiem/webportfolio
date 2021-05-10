@@ -5,7 +5,7 @@
 ### My Creative Works 
 
 [Project 1: Snow](/sample_page)
-<img src="images/snow.png?raw=true"/>
+<img src="images/Snow.png?raw=true"/>
 
 ---
 [Project 2: Mother's Day Poster](/pdf/sample_presentation.pdf)
