@@ -9,7 +9,7 @@
 
 ---
 [Project 2: Mother's Day Poster](/pdf/sample_presentation.pdf)
-<img src="images/ecard.png?raw=true"/>
+<img src="images/ecard.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
