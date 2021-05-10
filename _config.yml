@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Yvonne Chiem # your name (or website title) here
+logo: "/images/me.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  About This Cite
   <br><br>
-  Second description 
+  This website showcases my creative works from the Web Design class. I hope you enjoy my creations! 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
