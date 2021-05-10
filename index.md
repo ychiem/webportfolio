@@ -12,11 +12,14 @@
 <img src="images/ecard.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3: Surrealism Project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4: Earth Day Project](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
