@@ -17,7 +17,7 @@
 
 ---
 [Project 4: Earth Day Project](/sample_page)
-<img src="images/turtle.png?raw=true"/>
+<img src="images/turtles.jpg?raw=true"/>
 
 ---
 ### Category Name 2
