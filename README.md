@@ -26,11 +26,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+ Lists Unordered
+* Item 1 
+* Item 2 
 
-1. Numbered
-2. List
+Ordered
+1. Item 1 
+1. Item 2 
+1. Item 3 
 
 **Bold** and _Italic_ and `Code` text
 
