@@ -13,7 +13,7 @@
 
 ---
 [Project 3: Surrealism Project](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/surreal.jpg?raw=true"/>
 
 ---
 [Project 4: Earth Day Project](/sample_page)
